@@ -1,0 +1,11 @@
+# Ignore Python cache and environment
+__pycache__/
+venv/
+chroma_db/
+
+# Ignore environment variables
+.env
+
+# Ignore OS and editor files
+.DS_Store
+*.pyc

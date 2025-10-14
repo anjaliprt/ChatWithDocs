@@ -6,16 +6,18 @@
 - **Hugging Face embeddings**
 - **Chroma** as a vector database
 - **Streamlit UI** for an interactive chat interface
+
 You can upload any `.pdf` or `.txt` file and ask natural language questions about it.
 
 ---
 
 ## 🚀 Features
-📄 Load PDF or TXT documents  
-🧩 Chunk and embed with Hugging Face model  
-⚙️ Store and retrieve context using Chroma  
-💬 Query using Groq LLM (e.g., `llama3` family)  
-🎨 UI for an interactive chatting experience.
+- ✅ Load PDF or TXT documents  
+- ✅ Chunk and embed with Hugging Face model  
+- ✅ Store and retrieve context using Chroma  
+- ✅ Query using Groq LLM (Llama-3.1-8B-Instant)   
+- ✅ UI for an interactive chatting experience.
+
 ---
 
 ## 🧩 Prerequisites
